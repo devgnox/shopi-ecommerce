@@ -1,4 +1,4 @@
-# Shopi E-commerce  [![es](https://img.shields.io/badge/lang-es-red.svg)](https://github.com/devgnox/shopi-ecommerce/README.es.md) [![es](https://img.shields.io/badge/lang-en-yellow.svg)](https://github.com/devgnox/shopi-ecommerce/README.md)
+# Shopi E-commerce  [![es](https://img.shields.io/badge/lang-es-red.svg)](https://github.com/devgnox/shopi-ecommerce/blob/main/README.es.md) [![es](https://img.shields.io/badge/lang-en-yellow.svg)](https://github.com/devgnox/shopi-ecommerce/blob/main/README.md)
 
 A modern e-commerce platform built with Next.js, Tailwind CSS, and React Query (TanStack Query).
 
