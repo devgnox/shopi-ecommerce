@@ -4,6 +4,8 @@ A modern e-commerce platform built with Next.js, Tailwind CSS, and React Query (
 
 ![Shopi E-commerce](https://github.com/user-attachments/assets/3b71bdc2-efbf-4b15-95d8-ec194a461620)
 
+[DEMO](https://shopi-ecommerce-tau.vercel.app/)
+
 ## Table of Contents
 
 - [Overview](#overview)
